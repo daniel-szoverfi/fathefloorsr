@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "the_floor_local_socket": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7101",
+      "launchBrowser": false
+    }
+  }
+}
